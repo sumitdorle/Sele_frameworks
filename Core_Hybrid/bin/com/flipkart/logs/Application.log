@@ -1,0 +1,4 @@
+04/06/2015 13:18:05 com.flipkart.test.DriverScript ********Executing the suite Search Suite**********
+04/06/2015 13:18:06 com.flipkart.test.DriverScript ********Executing the test First3Results**********
+04/06/2015 13:18:06 com.flipkart.test.DriverScript Executing the keyword openBrowser
+04/06/2015 13:18:06 com.flipkart.test.Keywords Opening browserType browser
